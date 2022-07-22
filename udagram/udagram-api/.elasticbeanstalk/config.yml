@@ -10,7 +10,7 @@ global:
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
   default_region: us-east-1
   include_git_submodules: true
-  profile: cli
+  profile: default
   repository: null
   sc: git
   workspace_type: Application
