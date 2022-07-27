@@ -17,4 +17,4 @@
 
 ## Infrastructure Diagram
 
-![AWS_Architecture](Doc/images/AWS_Architecture.png)
+![AWS_Architecture](./images/AWS_Architecture.png)
