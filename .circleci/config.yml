@@ -32,3 +32,13 @@ jobs:
       - run:
           name: Deploy Front-End
           command: npm run frontend:deploy
+          
+workflows:
+  build-and-deploy:
+    jobs:
+      - build:
+          context: aws
+          filters:
+            branches:
+              only:
+                - main
