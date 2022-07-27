@@ -12,4 +12,4 @@ The pipeline is setup and connected with this GitHub repository via CircleCI.
 
 ## Pipeline diagram
 
-![Pipeline diagram](Doc/images/Pipeline_Architecture.png)
+![Pipeline diagram](./images/Pipeline_Architecture.png)
