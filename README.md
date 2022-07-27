@@ -1,6 +1,8 @@
 # (Udagram) Hosting a Full-Stack Application
 ---
 
+[![CircleCI](https://circleci.com/gh/AhmedALSuwayni/udagram/tree/main.svg?style=svg)](https://circleci.com/gh/udagram/tree/tree/main)
+
 This application is provided from Udacity to be hosted into AWS with Pipeline using CircleCI.
 The Project is for the Advanced Full-Stack Web Development Nanodegree Program - Deploying & Hosting a Full-Stack Application.
 
